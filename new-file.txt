@@ -1,0 +1,5 @@
+this is new text file for reseting or add all expect one file
+*************************************************************
+new line added
+**************
+this will be stash now
